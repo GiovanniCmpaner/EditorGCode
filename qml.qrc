@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Imagens/OpenfileDialog_16x.png</file>
+        <file>Imagens/OpenFolder_16x.png</file>
+        <file>Imagens/SyncArrow_256x.png</file>
+    </qresource>
+</RCC>
